@@ -9,11 +9,7 @@ checkpoints
 old
 data
 __pycache__
-app.py
 checkpoint
-evaluate.py
-floyd_requirements.txt
-make-tweet.py
 save.meta
 save.index
 save.data-00000-of-00001
